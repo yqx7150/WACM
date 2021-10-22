@@ -1,6 +1,6 @@
 # WACM
 
-**Paper**: Wavelet Transform-assisted Adaptive Generative Modeling for Colorization
+Wavelet Transform-assisted Adaptive Generative Modeling for Colorization
 
 **Authors**: Jin Li, Wanyun Li, ZichenXu, Yuhao Wang and Qiegen Liu
 
