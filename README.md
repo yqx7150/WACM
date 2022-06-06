@@ -2,9 +2,9 @@
 
 Wavelet Transform-assisted Adaptive Generative Modeling for Colorization
 
-**Authors**: Jin Li, Wanyun Li, ZichenXu, Yuhao Wang and Qiegen Liu*   
+**Authors**: Jin Li, Wanyun Li, Zichen Xu, Yuhao Wang* and Qiegen Liu*   
 
-IEEE Transactions on Medical Imaging, https://ieeexplore.ieee.org/abstract/document/9435335   
+IEEE Transactions on Multimedia, https://ieeexplore.ieee.org/abstract/document/9782538   
 
 Date : 7/2021 
 The code and the algorithm are for non-commercial use only. 
