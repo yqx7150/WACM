@@ -12,6 +12,14 @@ Copyright 2021, Department of Electronic Information Engineering, Nanchang Unive
 
 ​    Unsupervised deep learning has recently demonstrated the promise to produce high-quality samples. While it has tremendous potential to promote the image colorization task, the performance is limited owing to the manifold hypothesis in machine learning. This study presents a novel scheme that exploiting the score-based generative model in wavelet domain to address the issue. By taking advantage of the multi-scale and multi-channel representation via wavelet transform, the proposed model learns the priors from stacked wavelet coefficient components, thus learns the image characteristics under coarse and detail frequency spectrums jointly and effectively. Moreover, such a highly flexible generative model without adversarial optimization can execute colorization tasks better under dual consistency terms in wavelet domain, namely data-consistency and structure-consistency. Specifically, in the training phase, a set of multi-channel tensors consisting of wavelet coefficients are used as the input to train the network by denoising score matching. In the test phase, samples are iteratively generated via annealed Langevin dynamics with data and structure consistencies. Experiments demonstrated remarkable improvements of the proposed model on colorization quality, particularly on colorization robustness and diversity.
 
+## Visulization of the performance of WACM
+![](./figs/fig1.png)  
+Visual comparison of Zhang et al. (b), ChromaGAN (c), MemoPainter (d) and WACM with different constraints (e, f).   
+## The Flowchart of WACM
+![](./figs/compare_fig.png)  
+Iterative colorization procedure of WACM. 
+
+
 ## Dependencies
 
 
